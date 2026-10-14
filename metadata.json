@@ -1,0 +1,6 @@
+{
+  "name": "نادي كيمياء السعادة | رفيق السعادة AI",
+  "description": "الموقع الرسمي لنادي كيمياء السعادة بجامعة فرحات عباس سطيف 1 والمساعد الذكي التفاعلي رفيق السعادة المبني على الأرشيف الرسمي للنادي",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
